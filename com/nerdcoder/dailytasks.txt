@@ -1,0 +1,10 @@
+1. Reverse a string without using inbuilt method
+2. Find second largest element in an array
+3. Count the number of vowels in an string.
+4. check if a string is palindrome
+5. Remove duplicates from an unsorted array.
+6. Find the missing number in array
+7. Check if two Strings are anagrams
+8. Find the first non repeating character in a String
+9. Swap two numbers without using third variable.
+10. Find factorial of a number using recursion
